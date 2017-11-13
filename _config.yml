@@ -3,9 +3,9 @@ permalink:           pretty
 
 # Setup
 title:               Paul Mackay
-tagline:
+tagline:             Personal blog
 url:                 http://paulmackay.github.io
-paginate:            1
+paginate:            10
 baseurl:             ""
 
 # Assets
